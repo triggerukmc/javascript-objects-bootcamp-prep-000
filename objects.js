@@ -1,3 +1,4 @@
-var playlist = {name: value}
+var playlist = {}
 
-function updatePlaylist
+function updatePlaylist (playlist, artist, song)
+
